@@ -1,0 +1,5 @@
+install langchain_google_genai
+install langchain_experimental
+install pandas 
+install streamlit
+install json
